@@ -1,0 +1,13 @@
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe.config
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.exe
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\bin\Debug\QuanLySanPham.pdb
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csprojAssemblyReference.cache
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.Form1.resources
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.formDangNhap.resources
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.Properties.Resources.resources
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.exe
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.pdb
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.formSanPham.resources
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.formDSSanPham.resources
