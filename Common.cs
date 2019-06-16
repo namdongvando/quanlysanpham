@@ -10,8 +10,6 @@ namespace QuanLySanPham
     class Common
     {
         protected static string connetionString = @"Data Source=DESKTOP-M2PUTJR;Initial Catalog=Northwind;Integrated Security=True";
-
-
         protected static SqlDataReader Query(string sql)
         {
             SqlConnection cnn;

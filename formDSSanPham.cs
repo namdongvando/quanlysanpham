@@ -50,5 +50,22 @@ namespace QuanLySanPham
             dgvSanPham.DataSource = sp.getDSSanPhamTheoTen(txtTukhoa.Text,dm.CategoryID);
             dgvSanPham.Refresh();
         }
+
+        private void dgvSanPham_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            formSuaSanPham fsps = new formSuaSanPham();
+            try
+            {
+                fsps.FormSuaSanPham(new SanPham());
+                fsps.Show();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+           
+            
+
+        }
     }
 }

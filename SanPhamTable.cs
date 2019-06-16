@@ -105,7 +105,11 @@ Values( '{0}' , '{1}' , '{2}' , '{3}' , '{4}' , '{5}' , '{6}' , '{7}' , '0')"
 ,sp.ReorderLevel);
             Query(sql);
         }
-
+        protected void DeleteSP(String spid)
+        {
+            string sql = String.Format(@"delete Products where ProductID = '{0}'", spid);
+            Query(sql);
+        }
         protected List<SanPham> DSSanPhamTheoTen(string ten, string dm)
         {
             List<SanPham> ls = new List<SanPham>();

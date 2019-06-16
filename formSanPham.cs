@@ -55,8 +55,7 @@ namespace QuanLySanPham
         {
             SanPham Sp = this.inputForm();
             Sp.ThemSanPham(Sp);
-
-
+            MessageBox.Show("Them Thang Cong");
         }
     }
 }

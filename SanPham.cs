@@ -61,6 +61,10 @@ namespace QuanLySanPham
             this.InsertSP(sp);
         }
 
+        public void XoaSanPham(string spid) {
+            this.DeleteSP(spid);
+        }
+
         public List<SanPham> getDSSanPhamTheoTen(string Ten)
         {
             return this.DSSanPhamTheoTen(Ten);

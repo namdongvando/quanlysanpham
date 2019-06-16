@@ -11,3 +11,4 @@ D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.exe
 D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.pdb
 D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.formSanPham.resources
 D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.formDSSanPham.resources
+D:\3.Training\WP\QuanLySanPham\QuanLySanPham\obj\Debug\QuanLySanPham.formSuaSanPham.resources
